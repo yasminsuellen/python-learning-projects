@@ -9,6 +9,8 @@ This repository contains Python projects completed as part of the "Exploring Fun
 - `vowel-count/` : A script to count the number of vowels in a given string.
 - `common-elements/` : A script to find common elements between two lists of integers.
 - `character-count/` : A script to count the frequency of each character in a given string.
+- `list-intersection/` : A script to find the common elements between two lists of integers, without duplicates.
+
 
 ## Installation
 To run these scripts on your local machine, you'll need Python installed. You can download it from [python.org](https://www.python.org/).
