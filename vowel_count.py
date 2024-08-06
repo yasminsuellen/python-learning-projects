@@ -12,7 +12,7 @@ def vowel_count(text):
           continue
     return vowel_count
 # Prompts the user to enter a string
-text = input()
+text = input("Enter a string to count the number of vowels: ")
 
 # Calls the vowel_count function and displays the result
 result = vowel_count(text)
