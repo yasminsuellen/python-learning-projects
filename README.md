@@ -16,4 +16,6 @@ This repository contains Python projects completed as part of the "Exploring Fun
 To run these scripts on your local machine, you'll need Python installed. You can download it from [python.org](https://www.python.org/).
 
 ## Usage
-Navigate to the directory of the project you want to run and execute the script using Python.
+1. Clone the repository to your local machine.
+2. Navigate to the directory where the script you want to run is located.
+3. Execute the script using Python.
