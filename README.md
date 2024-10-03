@@ -1,7 +1,7 @@
 # Python Learning Projects
 
 ## Introduction
-Este repositório apresenta projetos desenvolvidos ao longo de minha jornada de aprendizado em Python, cada um projetado para fortalecer os principais conceitos de programação e demonstrar aplicações práticas de Python.
+This repository features projects developed throughout my Python learning journey, each designed to strengthen key programming concepts and demonstrate practical applications of Python.
 
 ## Projects
 - `character-count/` : A script to count the frequency of each character in a given string.
