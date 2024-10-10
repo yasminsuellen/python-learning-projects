@@ -12,7 +12,8 @@ This repository features projects developed throughout my Python learning journe
 - `vowel-count/` : A script to count the number of vowels in a given string.
 
 ## Installation
-To run these scripts on your local machine, you'll need Python installed. You can download it from [python.org](https://www.python.org/).
+To run these scripts on your local machine, you'll need to have Python installed. 
+- Download Python - [python.org](https://www.python.org/)
 
 ## Usage
 1. Clone the repository to your local machine.
